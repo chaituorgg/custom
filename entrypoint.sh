@@ -1,2 +1,2 @@
 #!/bin/bash
-echo " this is custom action "
+echo " this is local action "
